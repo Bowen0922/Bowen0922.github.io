@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Welcome to Bowen JIANG's Homepage!"
+excerpt: "Welcome to Bowen JIANG's Homepage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to Bowen JIANG's Homepage!
----
 
 **About me**
 
