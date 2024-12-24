@@ -17,6 +17,8 @@ My name is JIANG Bowen 姜博文, a fourth year undergraduate student from the [
 
 Currently, I am fortunate to be advised by Prof. [Yenan Sun](https://yenan09.github.io) at CUHK. Prior to this, I was also honored to be hired by Prof. [Dun Deng](https://www.chi.cuhk.edu.hk/profile/prof-deng-dun/) at CUHK as his RA.
 
+You can find my cy here: [Bowen's cv (Eng ver.)](../assets/CV_JIANGBowen_Chi_20241223.pdf), [Bowen's cv (Traditional Chi ver.)](../assets/CV_JIANGBowen_Eng_20241223.pdf).
+
 
 **Research Interest**
 
